@@ -7,8 +7,8 @@
 </template>
 
 <script>
-    import AccountAvatar from "./AccountAvatar";
-    import AccountData from "./AccountData";
+    import AccountAvatar from "./components/AccountAvatar";
+    import AccountData from "./components/AccountData";
     import KeyValueLine from "../../../common/KeyValueLine";
     export default {
         name: "UserCard",

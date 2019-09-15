@@ -41,5 +41,7 @@
         vertical-align: middle;
         line-height: inherit;
         background-color: #6c9e30;
+        border-radius: 20%;
+        box-shadow: 0px 0px 5px 1px rgba(0,0,0,0.75);
     }
 </style>

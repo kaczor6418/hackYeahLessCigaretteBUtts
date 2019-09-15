@@ -8,7 +8,7 @@
 </template>
 
 <script>
-    import ArticleImage from "../../../../body/article/components/ArticleImage";
+    import ArticleImage from "../../body/article/components/ArticleImage";
     export default {
         name: "Item",
         components: {ArticleImage},
@@ -24,7 +24,8 @@
 
 <style scoped>
     img {
-        width: 30%;
+        min-width: 320px;
+        width: 80%;
         margin: 6px;
     }
 </style>

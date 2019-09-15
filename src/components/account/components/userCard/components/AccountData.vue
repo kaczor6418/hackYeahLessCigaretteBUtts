@@ -7,8 +7,8 @@
 </template>
 
 <script>
-    import ArticleTitle from "../../../body/article/components/ArticleTitle";
-    import KeyValueLine from "../../../common/KeyValueLine";
+    import ArticleTitle from "../../../../body/article/components/ArticleTitle";
+    import KeyValueLine from "../../../../common/KeyValueLine";
     export default {
         name: "AccountData",
         components: {KeyValueLine, ArticleTitle},
