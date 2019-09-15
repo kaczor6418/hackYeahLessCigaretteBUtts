@@ -30,6 +30,7 @@ npm run build
 * [HTML5](https://www.w3schools.com/html/) - You can create a Website
 * [CSS3](https://www.w3schools.com/css/) - Is a language that describes the style of an HTML document
 * [Vue.js](https://vuejs.org/) - Modern JavaScript framework
+* [Photos](http://thestocks.im/) - Free photos library
 
 ## Authors
 
