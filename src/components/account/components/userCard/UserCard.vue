@@ -12,7 +12,7 @@
     import KeyValueLine from "../../../common/KeyValueLine";
     export default {
         name: "UserCard",
-        components: {KeyValueLine, AccountData, AccountAvatar},
+        components: {AccountData, AccountAvatar},
         data() {
             return {
                 userData: [
